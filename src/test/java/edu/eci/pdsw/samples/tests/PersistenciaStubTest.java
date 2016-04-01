@@ -18,7 +18,7 @@ import org.junit.Test;
  *
  * @author 2105461
  */
-public class PersistenciaTestStub {
+public class PersistenciaStubTest {
     
     /*:Registrar un paciente que no exite - Pos*/
     @Test
